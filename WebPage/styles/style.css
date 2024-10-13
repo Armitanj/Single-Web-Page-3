@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Bahij Nazanin-Bold;
+    src: url(../fonts/Bahij/Bahij\ Nazanin-Bold.ttf)
+}
+/* *{
+    padding: 0;
+    margin: ;
+} */
+body,html{
+    font-family: Bahij Nazanin-Bold;
+    margin: 0px !important;
+    padding: 0px !important;
+    box-sizing: border-box  !important;
+}
+.icon {
+    color: #dc3545;
+    background-color: #ebeafb;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+}
+.card-primary {
+    /* background: #1b2a4e; */
+    color: white !important;
+    background: #dc3545;
+}
+.bg-main {
+    background-color:#dc3545 ;
+}
+.footer-link {
+    text-decoration: none;
+    color: #000;
+}
+.footer-header {
+    border-bottom: 3px solid;
+    height: 35px;
+}
+
+.footer-link:hover {
+    color: #000;
+}
